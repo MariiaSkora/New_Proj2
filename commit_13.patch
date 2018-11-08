@@ -1,0 +1,14 @@
+Index: src/class2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/class2.java	(date 1541678957000)
++++ src/class2.java	(date 1541679403113)
+@@ -1,5 +1,6 @@
+ public class class2 {
+     public static void main(String[] args) {
+         System.out.println("hello");
++        System.out.println("hello");
+     }
+ }
